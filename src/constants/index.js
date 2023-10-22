@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    magento
 } from "../assets";
 
 export const navLinks = [
@@ -46,7 +47,7 @@ const services = [
         icon: web,
     },
     {
-        title: "React Native Developer",
+        title: "Magento2 Developer",
         icon: mobile,
     },
     {
